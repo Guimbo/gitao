@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		BE84525F20BEDF48006585BA /* gitao */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = gitao; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE84526220BEDF48006585BA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		BE84526920BEF091006585BA /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				BE84526220BEDF48006585BA /* main.swift */,
+				BE84526920BEF091006585BA /* .gitignore */,
 			);
 			path = gitao;
 			sourceTree = "<group>";
