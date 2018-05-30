@@ -8,5 +8,6 @@
 
 import Foundation
 
-print("Hello, World!")
+var vida = "agua"
+var carteira = "vento"
 
